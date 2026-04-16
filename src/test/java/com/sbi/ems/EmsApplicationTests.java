@@ -1,3 +1,4 @@
+/** 
 package com.sbi.ems;
 
 import com.sbi.ems.security.JwtUtil;
@@ -33,7 +34,6 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @AutoConfigureMockMvc
 @ActiveProfiles("dev")
 class EmsApplicationTests {
-	/*
 
 	@Autowired
 	private MockMvc mockMvc;
@@ -142,5 +142,7 @@ class EmsApplicationTests {
 		mockMvc.perform(get("/actuator/env")).andExpect(status().isUnauthorized());
 	}
 
-	*/
+	
 }
+
+*/
