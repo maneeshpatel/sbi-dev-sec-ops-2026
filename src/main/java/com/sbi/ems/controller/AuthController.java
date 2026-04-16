@@ -20,6 +20,10 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
+ * My comment
+ */
+
+/**
  * Authentication endpoint.
  *
  * DevSecOps fixes (A07 — Auth Failures):
